@@ -10,10 +10,11 @@ nav {
 
 .nav-title {
 
- padding: 50px 200px;
+    padding: 50px 200px;
 
 }
-.nav-sub-title{
+
+.nav-sub-title {
     color: orangered;
 }
 
@@ -54,6 +55,14 @@ body {
     top: 216px;
 }
 
+.banner-image {
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
 .banner-description {
     font-size: 16px;
     text-align: right;
@@ -78,6 +87,17 @@ body {
     background-color: #F15B22;
     color: #FFFFFF;
     border-radius: 5px;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
 
-
+.experience-title {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-size: 40px;
+    font-weight: 700;
 }
