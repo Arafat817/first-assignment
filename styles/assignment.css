@@ -92,6 +92,14 @@ body {
     text-align: center;
 }
 
+.previous-experiences {
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
 .experience-title {
     position: absolute;
     width: 288px;
@@ -100,4 +108,96 @@ body {
     top: 1178px;
     font-size: 40px;
     font-weight: 700;
+}
+
+.experience-description {
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+
+
+
+}
+
+.exp-shortlist {
+    margin-top: 16px;
+    color: #444343;
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
+}
+
+.expo-two {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.expo-four {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+/* my plan style */
+
+.my-plan {
+    margin-top: 130px;
+}
+
+.section-title {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1792.3px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+
+}
+
+.skill-in-future {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 320px;
+    top: 1889px;
+
+}
+
+.skill-title {
+    position: absolute;
+    width: 270px;
+    height: 35px;
+    left: 230px;
+    top: 2012.26px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.skill-description {
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 277px;
+    top: 2063.26px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.picture-one {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 320px;
+    top: 1889px;
 }
